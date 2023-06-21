@@ -1,0 +1,63 @@
+[
+    {
+        "nombre": "Boby",
+        "edad": 5,
+        "raza": "Pastor Aleman",
+        "vacunas": ["Rabia", "Parvovirus"]
+
+    },
+    {
+        "nombre": "Firulais",
+        "edad": 7,
+        "raza": "Bulldog",
+        "vacunas": ["Rabia", "Parvovirus"]
+    },
+    {
+        "nombre": "Scooby",
+        "edad": 3,
+        "raza": "Gran Danes",
+        "vacunas": ["Parvovirus"]
+    },
+    {
+        "nombre": "Pluto",
+        "edad": 2,
+        "raza": "Labrador",
+        "vacunas": ["Rabia"]
+    },
+    {
+        "nombre": "Snoopy",
+        "edad": 4,
+        "raza": "Beagle",
+        "vacunas": ["Vitaminas"]
+    },
+    {
+        "nombre": "Lassie",
+        "edad": 6,
+        "raza": "Collie",
+        "vacunas": ["Rabia", "Parvovirus"]
+    },
+    {
+        "nombre": "Benji",
+        "edad": 1,
+        "raza": "Cocker",
+        "vacunas": ["Rabia", "Parvovirus"]
+    },
+    {
+        "nombre": "Hachiko",
+        "edad": 8,
+        "raza": "Akita",
+        "vacunas": ["Rabia", "Parvovirus"]
+    },
+    {
+        "nombre": "Rin Tin Tin",
+        "edad": 9,
+        "raza": "Pastor Aleman",
+        "vacunas": ["Rabia", "Parvovirus"]
+    },
+    {
+        "nombre": "Rex",
+        "edad": 10,
+        "raza": "Pastor Aleman",
+        "vacunas": ["Rabia", "Parvovirus"]
+    }
+]
